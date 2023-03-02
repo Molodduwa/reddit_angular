@@ -1,0 +1,22 @@
+{
+  "articoli": [
+    {
+      "id": 1,
+      "titolo": "RTX",
+      "url": "https://www.youtube.com/watch?v=RIT1pYg3G7o",
+      "like": 23
+    },
+    {
+      "id": 2,
+      "titolo": "Calcetto",
+      "url": "https://www.youtube.com/watch?v=-jOlE8e9Ods",
+       "like": 23   
+    },
+    {
+      "id": 3,
+      "titolo": "pallavolo",
+      "url": "https://www.youtube.com/watch?v=npNA0AGfLlY",
+      "like": 23
+    }   
+  ]
+}
